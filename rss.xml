@@ -4,7 +4,7 @@
         <description><![CDATA[This is the Dragon Soap Test Site]]></description>
         <link>https://thegrid.ai/this-is-the-dragon-soap-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 01:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 01:24:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/this-is-the-dragon-soap-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96652a0d-0ffa-4219-8b50-0f2744f5f3c4.jpg" alt="This is my header">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96652a0d-0ffa-4219-8b50-0f2744f5f3c4.jpg">]]></description>
             <link>https://thegrid.ai/this-is-the-dragon-soap-site/this-is-my-header/index.html</link>
             <guid isPermaLink="false">3af93cc1-d00a-416b-be7a-9ad1da518d80</guid>
-            <pubDate>Sat, 13 Aug 2016 01:22:50 GMT</pubDate>
+            <pubDate>Sat, 13 Aug 2016 01:22:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
